@@ -1,19 +1,19 @@
 # Readme
 
-Arduino/ESP32 library for Waveshare 4-color E-paper displays
+Arduino/ESP32 library for Waveshare 4-color E-paper displays. 
+For more details see the [4-color E-Paper with ESP32](https://www.makerguides.com/4-color-e-paper-display-with-esp32/) tutorial.
 
 
-Should work with the following Waveshare displays, though I tested only with the 3-inch one:
-- [3-inch 4-color E-Paper Module 400 × 168](https://amzn.to/3AUpZ7L)
+The library should work with the following Waveshare displays, 
+though I tested only with the 3-inch one:
+
+- [3-inch 4-color E-Paper Module 400×168](https://amzn.to/3AUpZ7L)
 - [2.13-inch 4-color E-Paper Module 250x122](https://amzn.to/417U7a7)
 - [2.66-inch 4-color E-Paper Module  360x184](https://amzn.to/4fVKDn1)
 
 
-Should work with most Arduino, ESP32 and ESP8266 boards. The code is based on the
-[Documentation for the Waveshare 3-inch e-Paper Module](https://www.waveshare.com/wiki/3inch_e-Paper_Module_(G)_Manual)
+The code is based on the [Docs for the Waveshare 3-inch e-Paper Module](https://www.waveshare.com/wiki/3inch_e-Paper_Module_(G)_Manual)
 
-For more details see 
-[4-color E-Paper with ESP32]()
 
 ## Packaging
 
